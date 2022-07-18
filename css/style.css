@@ -1,0 +1,164 @@
+
+header{
+    background-image:url(../img/bg-header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.nav-item a{
+    color: rgb(255, 255, 255);
+    margin-left: 30px;
+    transform: translateX(600px);
+    font-size: 25px;
+
+}
+
+#welcome{
+    padding: 200px;
+    margin: 100px;
+}
+
+#welcome img{
+    padding-top: 10px;
+}
+
+
+
+#welcome h2{
+    font-size: 80px;
+    color: #e8f00c;
+}
+
+
+#welcome p{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 80px;
+}
+
+
+
+#planes img{
+    width: 300px;
+    height: 300px;
+       
+}
+
+#planes h1{
+    padding: 100px;
+    font-size: 60px;
+}
+
+#planes h2{
+    font-size: 30px;
+}
+
+#planes h3{
+   transform: translateY(-230px);
+   color: #e8f00c;
+}
+
+
+#destinos img{
+    width: 350px;
+    height: 350px;
+    margin: 40px;
+}
+
+#destinos{
+    background-image: url(../img/bg-destinos.png);
+    margin-top: 260px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#destinos h1{
+    padding: 200px;
+    font-size: 70px;
+    color: #e8f00c;
+    
+}
+
+#destinos h3{
+    color: white;
+    font-size: 50px;
+    margin: 30px;
+}
+
+#contacts{
+    background-color: #e8f00c;
+    padding: 120px;
+}
+
+#contacts h1{
+    font-size: 70px;
+    margin: 50px;
+    font-weight: bold;
+}
+
+#contacts h2{
+    margin: 30px;
+}
+
+
+#contacts label{
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+
+#contacts input{
+    padding: 25px;
+    margin: 30px;
+    font-size: 25px;
+}
+
+#contacts select{
+    padding: 25px;
+    margin: 30px;
+    font-size: 25px;
+}
+
+
+#autor{
+    background-color: black;
+    padding: 80px;
+}
+
+#autor h1{
+    font-size: 30px;
+    color: white;
+    margin: 30px;
+}
+
+#contacts .boton{
+    margin: 30px;
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    border-radius: 10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:70px;
+    padding-right:70px;
+    background-color: #a1a608; 
+}
+
+#welcome .boton{
+    margin: 30px;
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    border-radius: 10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:70px;
+    padding-right:70px;
+    background-color: #a1a608; 
+}
